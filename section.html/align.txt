@@ -1,0 +1,41 @@
+in html
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1  class=dull id=123>hello friends</h1>
+        <h1 class=king id=p234> i am your buddy</h1>
+        <a href="www.google.com">click here to visit the link</a>
+        <p>nnn aaaaaa mmmmmmm eeeee:</p>
+        <p class=p id=111>hello da</p>
+        <p class=i id=222>venakum da </p>
+    </body>
+</html>
+
+
+
+
+in css
+
+
+.dull{color:red;}
+#p234{color:blue;}
+a:link
+{color:green;}
+.p{ 
+    text-align:left;
+}
+.i{
+    text-align:right;
+}
+p{text-align: center;}

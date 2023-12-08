@@ -1,0 +1,8 @@
+const person={
+    name:"Sreesaran",
+    Age:"18",
+    Gender:"male",
+    bloodgroup:"o",
+    Class:"ECE"
+    };
+  document.write(person.name)

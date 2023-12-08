@@ -1,0 +1,67 @@
+
+in html
+
+
+<div class="aa">
+        <div class="para">
+            <p>this is belong to mine .i try stop killingmyself</p>
+        </div>
+        <div class="para">
+            <p>blood its my blood haaaa .life is short dude so enjoy the every moment.life is a unpredictable thing so be king help other</p>
+        </div>
+        <div class="para">
+            <P>The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.</div>
+        <div class="para">
+            <p>this is belong to mine .i try stop killingmyself</p>
+        </div>
+        <div class="para">
+            <p>blood its my blood haaaa .life is short dude so enjoy the every moment.life is a unpredictable thing so be king help other</p>
+        </div>
+        <div class="para">
+            <p>The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic
+            3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic
+            Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and 
+            standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport 
+            seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary 
+            Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.</div>
+        <div class="para">
+            <p>this is belong to mine .i try stop killingmyself</p>
+        </div>
+        <div class="para">
+            <p>blood its my blood haaaa .life is short dude so enjoy the every moment.life is a unpredictable thing so be king help other</p>
+        </div>
+        <div class="para">
+            <P>The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.</div>
+        <div class="para">
+            <p>this is belong to mine .i try stop killingmyself</p>
+        </div>
+        <div class="para">
+            <p>blood its my blood haaaa .life is short dude so enjoy the every moment.life is a unpredictable thing so be king help other</p>
+        </div>
+        <div class="para">
+            <P>The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.The special edition's cabin boasts heated black leather-trimmed sport seats, a black leather-wrapped tilt/telescopic 3-spoke steering wheel, and a full-colour Head-Up Display (HUD). The 45th Anniversary Edition also includes Full-Speed Dynamic Radar Cruise Control (AT models), Cruise Control (MT models), Blind Spot Monitor (BSM), Rear Cross Traffic Alert (RCTA), and standard Parking Sensors with Emergency Braking Function.</div>
+        </div>
+
+
+
+ in css
+
+
+
+body{
+    background-color:lightblue;
+}
+.aa{
+    display:grid;
+    grid-template-columns: 30% 29% 34% 56%;
+    gap:10%;
+    padding:6%;
+    margin:10%;
+}
+.para{background-color:green;
+    color:yellow;
+}
+
+
+ 
+

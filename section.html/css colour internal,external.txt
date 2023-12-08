@@ -1,0 +1,85 @@
+<head>
+<link rel="b">
+
+<style>
+
+  label{
+        color: blue;
+        font-size:20px;
+        font-weight:5px;
+  }
+        h2{
+        color: yellow;
+        font-size:40px;
+        font-weight:5px;
+  }
+
+</style>
+<style>
+    input{
+        background-colour:orange;
+    }
+</style>
+
+</head>
+<body>
+
+<form>
+    <label>Name:</label>
+   <input type="text" placeholder="enter the name"><br>
+ <label>Father name</label>
+  <input type="text"><br>
+    <label>Mother's Name:</label>
+    <input type="text"><br>
+    <label>Address:</label>
+    <input type="text"> <label> <br>DOB</label><input type="date"><br>
+    <label>Phone number:</label>
+    <input type="telephone"><br>
+    <label>Email:</label>
+    <input type="email"><br>
+    <label>Alternate no:</label>
+    <input type="telephone"><br>
+    <label>Passport pic:</label>
+    <button>image</button><br>
+    <label>Gender</label>
+    <input type="radio" name="gender">
+    <label>Male</label>
+    <input type="radio" name="gender">
+    <label>Female</label>
+    <br>
+    <label>Course :</label>
+    <input type="checkbox">
+    <label>HTML</label>
+     <input type="checkbox">
+     <label>JAVA</label>
+      <input type="checkbox">
+      <label>PYTHON</label><br>
+       <label>Department :</label>
+    <select>
+        <option>ECE</option>
+        <option>IT</option>
+        <option>EEE</option>
+        <option>MECH</option>
+        <option>CIVIL</option>
+    </select><br>
+    <label>Fav colour</label>
+    <button>colour pallate</button>
+    <br>
+    <label>known language</label>
+    <input type="checkbox">
+    <label>Tamil</label>
+      <input type="checkbox">
+      <label>English</label>
+        <input type="checkbox">
+    <label>hindi</label>
+      <input type="checkbox">
+    <label>others</label><br>
+    <label>Height</label>
+    <input type ="range"><br>
+    <label>Certificate</label>
+    <input type="text"> title<br>
+    <input type="submit">
+    <input type="reset">
+    <button>Ok</button>
+</form>
+</body>

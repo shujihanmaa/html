@@ -1,0 +1,11 @@
+const person={
+    firstname:'john',
+    lastname:'Doe',
+    fullname:function(){
+        return this.firstname+" "+this.lastname;}}
+    const member={
+        firstname:"Hege",
+        lastname:"Nilsen",
+    }
+    let fullname=person.fullname.bind(member);
+    document.write(fullname());
